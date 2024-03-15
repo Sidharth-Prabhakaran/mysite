@@ -8,7 +8,8 @@
           "JS",
           "HTML",
           "CSS"
-        ]
+        ],
+    "featured":true
 }
 
 
