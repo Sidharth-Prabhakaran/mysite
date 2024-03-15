@@ -1,5 +1,5 @@
-title = "Sid Prabhakaran"
-baseURL = "https://example.com/"
+title = "Sidharth Prabhakaran"
+baseURL = "https://localhost:1313/"
 theme = "eddie"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -11,7 +11,7 @@ enableGitInfo = false
 address = "Vancouver, BC"
 email = "sidharthp1994@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Sid"
+firstName = "Sidharth"
 lastName = "Prabhakaran"
 phone = "1-778-682-2304"
 profileImage = "img/sid.jpg"
