@@ -1,5 +1,5 @@
 title = "Sidharth Prabhakaran"
-baseURL = "https://localhost:1313/"
+baseURL = "https://beautiful-bonbon-9b58f2.netlify.app/"
 theme = "eddie"
 languageCode = "en-us"
 PygmentsCodeFences = true
