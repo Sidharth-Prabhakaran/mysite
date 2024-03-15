@@ -1,5 +1,5 @@
 title = "Sidharth Prabhakaran"
-baseURL = "https://example.com/"
+baseURL = "https://mysite.com/"
 theme = "eddie"
 languageCode = "en-us"
 PygmentsCodeFences = true
