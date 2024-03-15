@@ -1,0 +1,52 @@
+[
+  {
+      "grouping":"Languages",
+      "skills":[ "C++","Java","Python","git","bash","javascript"]
+  },
+  {
+    "grouping":"Machine Learning & Data Science",
+    "skills":[
+      {"name":"Scikit-learn","link":"https://scikit-learn.org"},
+      {"name":"Pandas","link":"https://pandas.pydata.org"},
+      {"name":"Numpy","link":"https://numpy.org"}
+    ]
+  },
+  {
+    "grouping":"Machine Learning Algorithms",
+    "skills": ["Linear Regression", "Random Forest", "Gradient Boosting", "K-means", "KNN", "Naive Bayes", "Decision Trees", "Neural Networks"]
+  },
+  {
+    "grouping":"Frameworks",
+    "skills":[
+      {"name":"Spring","link":"https://spring.io"},
+      {"name":"Node.js","link":"https://nodejs.org"},
+      {"name":"React","link":"https://reactjs.org"},
+      
+      {"name":"Express.js","link":"https://expressjs.com"}
+    ]
+
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        
+        "Neo4j",
+        "MongoDB",
+        {"name":"Oracle","icon":"database"},
+        
+        
+        {"name":"mySQL"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"Kubernetes","link":"https://kubernetes.io"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+          
+      ]
+  }
+]

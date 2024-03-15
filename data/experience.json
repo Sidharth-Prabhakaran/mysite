@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Student Assistant",
+        "company":"Douglas College",
+        "summary":"Assisted students with their academic needs.",
+        "range":"Sep 2022 - Aug 2023"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Tata Consultancy Services",
+        "summary":"",
+        "range":"Oct 2017 - Aug 2021"
+    },
+    {
+        "role":"Database Administrator",
+        "company":"Tata Consultancy Services",
+        "summary":"",
+        "range":"Oct 2016 - Oct 2017"
+    }
+]
