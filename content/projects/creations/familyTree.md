@@ -11,3 +11,4 @@
 }
 
 FamilyTreeBuilder is a Web App using Node.js, REST API, MySQL, NeoVis.js and Neo4j(CypherQL), enabling users to create and manage family trees efficiently. Utilized Docker to containerize and orchestrate the deployment of components, ensuring scalability and ease of deployment
+

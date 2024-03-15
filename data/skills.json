@@ -1,19 +1,20 @@
 [
   {
       "grouping":"Languages",
-      "skills":[ "C++","Java","Python","git","bash","javascript"]
+      "skills":[ "Python","Java","C++","bash","javascript"]
+  },
+  
+  {
+    "grouping":"Machine Learning Algorithms",
+    "skills": ["Linear Regression", "Random Forest", "Gradient Boosting", "K-means", "KNN", "Naive Bayes", "Decision Trees", "Neural Networks"]
   },
   {
-    "grouping":"Machine Learning & Data Science",
+    "grouping":"Libraries For ML",
     "skills":[
       {"name":"Scikit-learn","link":"https://scikit-learn.org"},
       {"name":"Pandas","link":"https://pandas.pydata.org"},
       {"name":"Numpy","link":"https://numpy.org"}
     ]
-  },
-  {
-    "grouping":"Machine Learning Algorithms",
-    "skills": ["Linear Regression", "Random Forest", "Gradient Boosting", "K-means", "KNN", "Naive Bayes", "Decision Trees", "Neural Networks"]
   },
   {
     "grouping":"Frameworks",
@@ -44,8 +45,7 @@
           {"name":"Docker","link":"https://docker.com"},
           {"name":"Kubernetes","link":"https://kubernetes.io"},
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Google Cloud","link":"https://cloud.google.com"}
           
       ]
   }
