@@ -19,5 +19,12 @@
 		"badge":"https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png",
 		"proof":"https://www.credly.com/badges/6dce4410-cb9e-4bb2-a479-968e9cd82a79/public_url"
 		
+	},
+	{
+		"name":"Azure AI Fundamentals",
+		"description": "Azure AI Fundamentals - AI 900",
+		"badge":"https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg",
+		"proof":"https://learn.microsoft.com/api/credentials/share/en-us/SidharthPrabhakaran-4372/151F880FC7E7933F?sharingId=686EC98E27E406AC"
+		
 	}
 ]
