@@ -1,6 +1,6 @@
 {
     "title":"Memory Game",
-    "link":"https://github.com/Sidharth-Prabhakaran/MemoryGame",
+    "link":"https://memorygame-9300.onrender.com/,
     "image":"/img/memgame.jpg",
     "description":"Developed a React app to showcase front-end development skills, leveraging React, JavaScript, and CSS for responsive design & visually appealing UI",
     "tags":[
