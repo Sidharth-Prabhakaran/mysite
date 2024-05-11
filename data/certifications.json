@@ -22,9 +22,16 @@
 	},
 	{
 		"name":"Azure AI Fundamentals",
-		"description": "Azure AI Fundamentals - AI 900",
+		"description": "Azure AI Fundamentals - AI-900",
 		"badge":"https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg",
 		"proof":"https://learn.microsoft.com/api/credentials/share/en-us/SidharthPrabhakaran-4372/151F880FC7E7933F?sharingId=686EC98E27E406AC"
+		
+	},
+	{
+		"name":"Azure Data Scientist Associate",
+		"description": "Azure Data Scientist Associate - DP-100",
+		"badge":"https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main",
+		"proof":"https://learn.microsoft.com/api/credentials/share/en-us/SidharthPrabhakaran-4372/26534087788006AB?sharingId=686EC98E27E406AC"
 		
 	}
 ]
