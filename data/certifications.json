@@ -28,6 +28,13 @@
 		
 	},
 	{
+		"name":"Azure AI Engineer Associate",
+		"description": "Azure AI Engineer Associate-102",
+		"badge":"https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main",
+		"proof":"https://learn.microsoft.com/api/credentials/share/en-us/SidharthPrabhakaran-4372/D669A6999D5D4EC5?sharingId=686EC98E27E406AC"
+		
+	},
+	{
 		"name":"Azure Data Scientist Associate",
 		"description": "Azure Data Scientist Associate - DP-100",
 		"badge":"https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main",
